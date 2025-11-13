@@ -1,0 +1,5 @@
+{
+  "name": "GEM PDF Editor",
+  "description": "A fully in-browser, open-source PDF editor that is fast, private, and free. It enables a wide range of edits, from text and image manipulation to page organization and form filling, without ever sending your files to a server.",
+  "requestFramePermissions": []
+}
